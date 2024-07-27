@@ -18,7 +18,7 @@ A pre-trained GPT-2 model [HooshvareLab/gpt2-fa-poetry](https://huggingface.co/H
 
 **Dataset Sources**
 
-  [Bolbolzaban](https://github.com/khashei/bolbolzaban-gpt2-persian)
+  * [Bolbolzaban](https://github.com/khashei/bolbolzaban-gpt2-persian)
   
-  [Persian_poems_corpus](https://github.com/amnghd/Persian_poems_corpus/tree/master)
+  * [Persian_poems_corpus](https://github.com/amnghd/Persian_poems_corpus/tree/master)
 
